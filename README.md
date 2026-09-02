@@ -32,6 +32,6 @@ http://localhost:5173/about/ が正常な画面を応答した。
 
 `bun run preview` によって http://localhost:4173/ として正常な静的サイトを閲覧することができた。
 
-![/about/](https://kazurayam.github.io/minista-mdx/images/my-minista-project-09-02-2026_08_40_PM.png)
+![/about/](https://kazurayam.github.io/minista-mdx/images/about-us-using-mdx.png)
 
 http://localhost:4173/ をMarkdown構文で書くことに成功した。 

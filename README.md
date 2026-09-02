@@ -1,6 +1,6 @@
 * minista mdx
 
-Zennに投稿した記事 [スタティックサイトジェネレータ minista を試して見た](https://zenn.dev/kazurayam/articles/ae376ca6bff235) の続き。Markdown構文でページを書くことを試して見た。
+Zennに投稿した記事 [スタティックサイトジェネレータ minista を試してみた](https://zenn.dev/kazurayam/articles/ae376ca6bff235) の続き。Markdown構文でページを書くことを試した。ちょっと手間取ったが最終的に成功した。
 
 ## やったこと
 

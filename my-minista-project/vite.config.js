@@ -1,4 +1,4 @@
-import { defineConfig, pluginSsg, pluginBundle, pluginBeautify } from "minista"
+import { defineConfig, pluginSsg, pluginBundle, pluginBeautify, pluginMdx, pluginImage } from "minista"
 
 export default defineConfig({
   plugins: [
@@ -12,6 +12,8 @@ export default defineConfig({
       outName: "bundle",
       useExportCss: true,
     }),
-    pluginBeautify()
+    pluginBeautify(),
+    pluginMdx(),
+    pluginImage(),
   ],
 })
